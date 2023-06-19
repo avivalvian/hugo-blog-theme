@@ -18,6 +18,6 @@ author: admin
 #  css_class: fullscreen
 ---
 
-🐈 Hey! I'm **Alice**, a data scientist at Google.
+🐈 Hey! I'm **Aviv**, a Master of Data Science student at WPI and a statistician at Statistics Indonesia.
 
-Check out my [CV](/about/) and blog posts below 🌈
+Check out my [CV](/about/) and blog posts below
